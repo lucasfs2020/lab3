@@ -10,9 +10,13 @@ and it would be a phone app. The end goal is hopefully to create an app that wil
 ### Part 1
 Venue:
 11 contributors
-49398 lines of code in tital
+
+49398 lines of code in title
+
 First commit was Tuesday December 15, 2015
+
 Last commit was December 11, 2018
+
 Current Branches are: 
   origin/HEAD -> origin/dev
   origin/ListBranch
