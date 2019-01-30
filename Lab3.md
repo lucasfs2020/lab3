@@ -67,4 +67,6 @@ origin/sign-up-bug
 
 gitstat file [link to gitstat](file:///C:/Users/standl/Documents/GitHub/venue_stats/index.html)
 
-Inside the file are the different grouce videos.
+Inside the file are the different grouce video.
+
+Tornado gource [link to tornado](https://www.youtube.com/watch?v=n5TCfNHC6Rw&feature=youtu.be)
