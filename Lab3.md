@@ -65,3 +65,6 @@ origin/security-fixes
 
 origin/sign-up-bug
 
+gitstat file [link to gitstat](file:///C:/Users/standl/Documents/GitHub/venue_stats/index.html)
+
+Inside the file are the different grouce videos.
