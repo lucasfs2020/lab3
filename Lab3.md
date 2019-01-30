@@ -65,7 +65,7 @@ origin/security-fixes
 
 origin/sign-up-bug
 
-gitstat file [
+gitstat file [gitstat_venie](gitstat_venue.PNG)
 
 Inside the file are the different grouce video.
 
