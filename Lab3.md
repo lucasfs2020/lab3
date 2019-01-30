@@ -5,7 +5,7 @@ other different pats of your game, very few actually show you which holes you st
 which is what my app intends to do. I would most likely use a data base of golf courses, if one exists,
 and it would be a phone app. The end goal is hopefully to create an app that will help you hone your skills even more. 
 
-
+![latex](latex.png)
 
 ### Part 1
 Venue:
